@@ -1,0 +1,69 @@
+2022-07-06 12:54:15,352 root DEBUG It's the entry [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+2022-07-06 12:54:15,352 root DEBUG [1, 2, 3, 4]
+2022-07-06 12:54:15,353 root DEBUG ['ineuron', 'data science']
+2022-07-06 12:54:15,353 root DEBUG {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+2022-07-06 12:54:15,353 root DEBUG (2, 3, 4, 5, 6)
+2022-07-06 12:54:15,353 root DEBUG (3, 4, 5, 6, 7)
+2022-07-06 12:54:15,353 root DEBUG 1
+2022-07-06 12:54:15,353 root DEBUG 2
+2022-07-06 12:54:15,353 root DEBUG 3
+2022-07-06 12:54:15,353 root DEBUG 4
+2022-07-06 12:54:15,353 root DEBUG 2
+2022-07-06 12:54:15,353 root DEBUG 3
+2022-07-06 12:54:15,353 root DEBUG 4
+2022-07-06 12:54:15,353 root DEBUG 5
+2022-07-06 12:54:15,354 root DEBUG 6
+2022-07-06 12:54:15,354 root DEBUG 3
+2022-07-06 12:54:15,354 root DEBUG 4
+2022-07-06 12:54:15,354 root DEBUG 5
+2022-07-06 12:54:15,354 root DEBUG 6
+2022-07-06 12:54:15,354 root DEBUG 7
+2022-07-06 12:54:15,354 root DEBUG 45
+2022-07-06 12:54:15,354 root DEBUG 4
+2022-07-06 12:54:15,354 root DEBUG 5
+2022-07-06 12:54:15,354 root DEBUG 23
+2022-07-06 12:54:15,354 root DEBUG 3
+2022-07-06 12:54:15,354 root DEBUG 6
+2022-07-06 12:54:15,354 root DEBUG 7
+2022-07-06 12:54:15,354 root DEBUG 8
+2022-07-06 12:54:15,355 root DEBUG 156
+2022-07-06 12:54:15,355 root DEBUG [2, 4]
+2022-07-06 12:54:15,355 root DEBUG ineuron
+2022-07-06 12:54:15,355 root DEBUG ineuron
+2022-07-06 12:54:15,355 root DEBUG No of 1 is 1
+2022-07-06 12:54:15,355 root DEBUG No of 2 is 2
+2022-07-06 12:54:15,355 root DEBUG No of 3 is 4
+2022-07-06 12:54:15,355 root DEBUG No of 4 is 4
+2022-07-06 12:54:15,355 root DEBUG No of 5 is 3
+2022-07-06 12:54:15,355 root DEBUG No of 6 is 3
+2022-07-06 12:54:15,355 root DEBUG No of 7 is 2
+2022-07-06 12:54:15,356 root DEBUG No of sudh is 1
+2022-07-06 12:54:15,356 root DEBUG No of k3 is 1
+2022-07-06 12:54:15,356 root DEBUG No of 8 is 1
+2022-07-06 12:54:15,356 root DEBUG No of 45 is 1
+2022-07-06 12:54:15,356 root DEBUG No of ineuron is 2
+2022-07-06 12:54:15,356 root DEBUG No of k1 is 1
+2022-07-06 12:54:15,356 root DEBUG No of k2 is 1
+2022-07-06 12:54:15,356 root DEBUG No of 23 is 1
+2022-07-06 12:54:15,356 root DEBUG No of kumar is 1
+2022-07-06 12:54:15,356 root DEBUG No of data science is 1
+2022-07-06 12:54:15,356 root DEBUG no of keys = 5
+2022-07-06 12:54:15,356 root DEBUG k1
+2022-07-06 12:54:15,357 root DEBUG sudh
+2022-07-06 12:54:15,357 root DEBUG k2
+2022-07-06 12:54:15,357 root DEBUG ineuron
+2022-07-06 12:54:15,357 root DEBUG k3
+2022-07-06 12:54:15,357 root DEBUG kumar
+2022-07-06 12:54:15,357 root DEBUG ineuron
+2022-07-06 12:54:15,357 root DEBUG data science
+2022-07-06 12:54:15,357 root DEBUG ('k1', ':', True)
+2022-07-06 12:54:15,357 root DEBUG ('sudh', ':', True)
+2022-07-06 12:54:15,357 root DEBUG ('k2', ':', True)
+2022-07-06 12:54:15,357 root DEBUG ('ineuron', ':', True)
+2022-07-06 12:54:15,357 root DEBUG ('k3', ':', True)
+2022-07-06 12:54:15,357 root DEBUG ('kumar', ':', True)
+2022-07-06 12:54:15,358 root DEBUG ('ineuron', ':', True)
+2022-07-06 12:54:15,358 root DEBUG ('data science', ':', False)
+2022-07-06 12:54:15,358 root DEBUG [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 3, 7, 6, 8]
+2022-07-06 12:54:15,358 root DEBUG 908605071360000
+2022-07-06 12:54:15,358 root DEBUG [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'ineuron', 'data science', 'k1', 'k2', 'k3', 3, 7, 'sudh', 'ineuron', 'kumar', 6, 8]
